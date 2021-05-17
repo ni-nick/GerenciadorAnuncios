@@ -1,7 +1,7 @@
 # GerenciadorAnuncios
 
 
-O presente projeto é um Gerenciador de Anúncios construído no Eclipse Java, onde possibilita o usuário a cadastrar um cliente com nome e CPF, cadastrar anúncios com nome, data de início e término e o quanto será investido, e vincular um cliente ao anúncios. O sistema possuí uma interface bem simples com telas separadas e nomes expressivos para melhor entendimento.
+O presente projeto é um Gerenciador de Anúncios construído no Eclipse Java, onde possibilita o usuário a cadastrar um cliente com nome e CPF, cadastrar anúncios com nome, data de início e término e o quanto será investido por dia, e vincular um cliente ao anúncios. O sistema possuí uma interface bem simples com telas separadas e nomes expressivos para melhor entendimento.
 
 No arquivo chamado "Gerenciador de Anuncios" possuí a pasta 'src', onde contém as packages e classes utilizadas para construir o sistema, estas estão divididas em 4 packages:
 
